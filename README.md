@@ -1,12 +1,12 @@
-# 📊 College Student Performance Dashboard
+#  College Student Performance Dashboard
 
 An interactive College Student Performance Dashboard developed using **Python, Pandas and Matplotlib** to analyze and visualize student academic performance.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to transform student performance data into meaningful visual insights. The dashboard helps analyze factors such as attendance, marks, GPA, study hours and assignment completion.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -28,7 +28,7 @@ The dashboard includes:
 - Study Hours vs Average Marks analysis
 - Grade distribution
 
-## 📈 Visualizations
+##  Visualizations
 
 The dashboard contains four main visualizations:
 
@@ -44,7 +44,7 @@ Helps understand the relationship between study time and academic performance.
 ### 4. Grade Distribution
 Shows the distribution of grades among students.
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard displays:
 
